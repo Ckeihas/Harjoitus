@@ -1,0 +1,13 @@
+.card {
+    width: 100%;
+    height: 40%;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 80%;
+    height: 50%;
+}
